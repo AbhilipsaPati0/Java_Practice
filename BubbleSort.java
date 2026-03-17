@@ -1,5 +1,6 @@
 // Bubble Sort implementation in Java
 // Time Complexity: O(n^2) in the worst and average case, O(n) in the best case (when the array is already sorted)
+// by Abhilipsa Pati
 public class BubbleSort {
     // Function to implement Bubble Sort
     public static void bubbleSort(int[] arr) {
