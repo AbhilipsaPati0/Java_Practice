@@ -1,6 +1,9 @@
+// This program prints a solid rectangle of asterisks based on user input for rows and columns.
+// by Abhilipsa
+// in practice of Java programming.
 import java.util.Scanner;
 
-public class solidrectangle3
+public class solidrectangle
  {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
