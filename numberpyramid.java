@@ -1,3 +1,5 @@
+// program by abhilipsa
+// in practice of java programming
 import java.util.Scanner;
 
 public class numberpyramid {
