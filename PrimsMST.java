@@ -1,3 +1,6 @@
+// Prim's Minimum Spanning Tree (MST) Algorithm Implementation in Java
+// by Abhilipsa
+// in practice of Java programming. 
 import java.util.*;
 
 class PrimsMST {
